@@ -37,17 +37,19 @@ The bank needed a centralized reporting solution to monitor the health of its lo
 ---
 
 ## 📁 Repository Structure
-bank-loan-powerbi-analysis/
-├── Bank_Loans_Dashboard.pbix       # Power BI dashboard file
-├── Dataset.csv                     # Raw dataset (38,576 records)
-├── Bank_Loan_Report.xlsx           # Excel report with KPI breakdown
-├── Bank_Loan_Report_Analysis.pdf   # Written analysis report with insights
-├── Bank_Loan_Terminology.pdf       # Data field definitions and terminology
-├── Bank_Loan_DomainKnowledge.pdf   # Banking domain knowledge reference
-├── dashboard_summary.png           # Summary dashboard screenshot
-├── dashboard_overview.png          # Overview dashboard screenshot
-├── dashboard_details.png           # Details dashboard screenshot
-└── README.md
+
+| File | Description |
+|---|---|
+| `Bank_Loans_Dashboard.pbix` | Power BI dashboard file |
+| `Dataset.csv` | Raw dataset (38,576 records) |
+| `Bank_Loan_Report.xlsx` | Excel report with KPI breakdown |
+| `Bank_Loan_Report_Analysis.pdf` | Written analysis report with insights |
+| `Bank_Loan_Terminology.pdf` | Data field definitions and terminology |
+| `Bank_Loan_DomainKnowledge.pdf` | Banking domain knowledge reference |
+| `dashboard_summary.png` | Summary dashboard screenshot |
+| `dashboard_overview.png` | Overview dashboard screenshot |
+| `dashboard_details.png` | Details dashboard screenshot |
+| `README.md` | Project documentation |
 
 ---
 
@@ -95,24 +97,24 @@ bank-loan-powerbi-analysis/
 
 ## 📈 Dashboard Structure
 
-### Dashboard 1 — Summary
+### Dashboard 1 (Summary)
 KPI cards for Total Applications, Funded Amount, Amount Received, Avg Interest Rate, Avg DTI with MTD and MoM tracking. Good Loan vs Bad Loan breakdown. Loan Status Grid View.
 
-### Dashboard 2 — Overview
-Monthly trend line chart | US State filled map | Loan term donut chart | Employment length bar chart | Loan purpose bar chart | Home ownership tree map
+### Dashboard 2 (Overview)
+Monthly trend line chart, US State filled map, Loan term donut chart, Employment length bar chart, Loan purpose bar chart, Home ownership tree map
 
-### Dashboard 3 — Details
-Full drill-down grid table with all loan records for individual loan-level investigation.
+### Dashboard 3 (Details)
+Full drill-down grid table with all loan records for individual loan level investigation.
 
 ---
 
 ## 💡 Key Insights
 
-- **Portfolio is healthy** — 86.2% good loans. Grade D–G loans carry the highest default risk and need tighter monitoring.
+- **Portfolio is healthy** - 86.2% good loans. Grade D–G loans carry the highest default risk and need tighter monitoring.
 - **Debt consolidation dominates** at 47.2% of all applications, opportunity to develop specialized products for this segment.
-- **California accounts for 17.9%** of all loans — geographic concentration risk worth monitoring.
-- **Loan volumes peak in December** — operational capacity should be planned accordingly for Q4.
-- **Total received ($473M) exceeds total funded ($435M)** — the $38M difference represents interest income earned by the bank.
+- **California accounts for 17.9%** of all loans, geographic concentration risk worth monitoring.
+- **Loan volumes peak in December** - operational capacity should be planned accordingly for Q4.
+- **Total received ($473M) exceeds total funded ($435M)** - the $38M difference represents interest income earned by the bank.
 
 ---
 
