@@ -33,7 +33,7 @@ The bank needed a centralized reporting solution to monitor the health of its lo
 ![Overview Dashboard](dashboard_overview.png)
 
 ### Details Dashboard
-![Details Dashboard](dashboard_details.png) 
+![Details Dashboard](dashboard_details.png)
 
 ---
 
