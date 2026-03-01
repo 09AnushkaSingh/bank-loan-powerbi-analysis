@@ -26,8 +26,7 @@ The bank needed a centralized reporting solution to monitor the health of its lo
 ## 📊 Dashboard Preview
 
 ### Summary Dashboard
-![Summary Dashboard]
-<img width="977" height="556" alt="dashboard summary" src="https://github.com/user-attachments/assets/1c2bb236-af5a-4867-9879-ad74be20a165" />
+![Summary Dashboard](dashboard%20summary.png)
 
 
 ### Overview Dashboard
