@@ -1,4 +1,4 @@
-# 🏦 Bank Loan Portfolio Analysis — Power BI Dashboard
+# 🏦 Bank Loan Portfolio Analysis (Power BI Dashboard)
 
 ---
 
@@ -30,10 +30,10 @@ The bank needed a centralized reporting solution to monitor the health of its lo
 
 
 ### Overview Dashboard
-![Overview Dashboard](dashboard_overview.png)
+![Overview Dashboard](dashboard%20overview.png)
 
 ### Details Dashboard
-![Details Dashboard](dashboard_details.png)
+![Details Dashboard](dashboard%20details.png)
 
 ---
 
